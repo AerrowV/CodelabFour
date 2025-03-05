@@ -23,8 +23,8 @@ public class Main {
     private static final PoemDAO POEM_DAO = PoemDAO.getInstance(emf);
 
     public static void main(String[] args) {
-        List<Poem> importedPoems = PoemImporter.importPoemsFromJson(emf);
-        System.out.println(importedPoems);
+//        List<Poem> importedPoems = PoemImporter.importPoemsFromJson(emf);
+//        System.out.println(importedPoems);
 
 
         Javalin app = Javalin.create().start(7070);
