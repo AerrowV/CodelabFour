@@ -1,0 +1,22 @@
+GET localhost:7070/api/poem
+
+###
+POST localhost:7070/api/poem
+Content-Type: "application/json"
+
+{
+    "title": "Bobby",
+    "shape": "san",
+    "text": "bobby-san"
+}
+
+###
+
+PUT localhost:7070/api/poem/1
+Content-Type: "application/json"
+
+{
+    "title": "Bobb9",
+    "shape": "san",
+    "text": "bobby-san"
+}

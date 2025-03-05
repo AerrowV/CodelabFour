@@ -13,4 +13,13 @@ public class DTOMapper {
         poem.setText(poemDTO.getText());
         return poem;
     }
+
+    public static PoemDTO entityToPoemDTO(Poem poem) {
+        PoemDTO poemDTO = new PoemDTO();
+        poemDTO.setId(poem.getId());
+        poemDTO.setTitle(poem.getTitle());
+        poemDTO.setShape(poem.getShape());
+        poemDTO.setText(poem.getText());
+        return poemDTO;
+    }
 }
