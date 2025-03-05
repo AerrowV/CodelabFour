@@ -17,12 +17,12 @@ public class Poem {
     private String title;
 
     @Column(length = 5000)
-    private String content;
-    private String genre;
+    private String shape;
+    private String text;
 
-    public Poem(String title, String content, String genre) {
+    public Poem(String title, String shape, String text) {
         this.title = title;
-        this.content = content;
-        this.genre = genre;
+        this.shape = shape;
+        this.text = text;
     }
 }

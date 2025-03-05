@@ -6,6 +6,6 @@ import lombok.Data;
 public class PoemDTO {
     private Long id;
     private String title;
-    private String content;
-    private String genre;
+    private String shape;
+    private String text;
 }
