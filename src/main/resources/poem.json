@@ -1,0 +1,139 @@
+{
+  "concrete_poems": [
+    {
+      "title": "Tree",
+      "shape": "A tree with branches and roots",
+      "text": [
+        "      GROW",
+        "     STRONG",
+        "    REACH HIGH",
+        "   BOBBY-san",
+        "  LIKE A TREE",
+        "   STAND TALL",
+        "    ROOTS DEEP",
+        "     SKYWARD",
+        "      DREAM"
+      ]
+    },
+    {
+      "title": "Raindrop",
+      "shape": "A falling raindrop",
+      "text": [
+        "    FALL",
+        "   GENTLY",
+        "  WASH AWAY",
+        " BOBBY-san'S",
+        "  TROUBLES",
+        "   CLEANSE",
+        "    RENEW"
+      ]
+    },
+    {
+      "title": "Heart",
+      "shape": "A heart",
+      "text": [
+        "  LOVE",
+        " BOBBY-san",
+        "  PASSION",
+        "   BURNS",
+        "    BRIGHT",
+        "   FOREVER",
+        "  IN OUR",
+        " HEARTS"
+      ]
+    },
+    {
+      "title": "Wave",
+      "shape": "An ocean wave",
+      "text": [
+        "     RISE",
+        "    AND FALL",
+        "   BOBBY-san'S",
+        "  SPIRIT FLOWS",
+        " LIKE THE SEA",
+        "  ENDLESS",
+        "   STRONG",
+        "    FREE"
+      ]
+    },
+    {
+      "title": "Clock",
+      "shape": "A circular clock face",
+      "text": [
+        "TIME TICKS",
+        "BOBBY-san",
+        "EVERY MOMENT",
+        "A GIFT TO CHERISH",
+        "TREASURE NOW",
+        "FOREVER PASSES",
+        "CLOCK TURNS"
+      ]
+    },
+    {
+      "title": "Mountain",
+      "shape": "A mountain peak",
+      "text": [
+        "     CLIMB",
+        "    BOBBY-san",
+        "   HIGHER STILL",
+        "  THE PEAK AWAITS",
+        " YOUR STRENGTH",
+        "  WILL GUIDE",
+        "   THE WAY",
+        "    UP"
+      ]
+    },
+    {
+      "title": "Butterfly",
+      "shape": "A butterfly with open wings",
+      "text": [
+        "  FLUTTER",
+        " BOBBY-san",
+        "  TRANSFORM",
+        "   AND SOAR",
+        "  BEAUTY IN",
+        "   CHANGE",
+        "    WINGS"
+      ]
+    },
+    {
+      "title": "Lightning Bolt",
+      "shape": "A jagged lightning bolt",
+      "text": [
+        "  ZAP",
+        " BOBBY-san",
+        "  ENERGY",
+        "   SURGES",
+        "  THROUGH YOU",
+        "   POWERFUL",
+        "    BRIGHT"
+      ]
+    },
+    {
+      "title": "Sun",
+      "shape": "A sun with rays",
+      "text": [
+        "   SHINE",
+        "  BOBBY-san",
+        "   WARMTH",
+        "  RADIATES",
+        " FROM YOUR",
+        "  SPIRIT",
+        "   LIGHT"
+      ]
+    },
+    {
+      "title": "Footsteps",
+      "shape": "Footprints in sand",
+      "text": [
+        "  WALK",
+        " BOBBY-san",
+        "  LEAVE YOUR",
+        "   MARK ON",
+        "  THE WORLD",
+        "   STEP BY",
+        "    STEP"
+      ]
+    }
+  ]
+}
