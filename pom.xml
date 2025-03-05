@@ -50,6 +50,12 @@
             <version>${hibernate-version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>io.javalin</groupId>
+            <artifactId>javalin-bundle</artifactId>
+            <version>6.4.0</version>
+        </dependency>
+
         <!--  LOMBOK    -->
 
         <dependency>
