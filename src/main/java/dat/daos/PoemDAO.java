@@ -9,11 +9,10 @@ import java.util.List;
 
 public class PoemDAO implements IDAO<Poem, Long> {
 
-
     private static EntityManagerFactory emf;
     private static PoemDAO instance = null;
 
-    private PoemDAO() {
+    public PoemDAO() {
     }
 
     public static PoemDAO getInstance(EntityManagerFactory _emf) {

@@ -7,7 +7,6 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import dat.daos.PoemDAO;
 import dat.dtos.PoemDTO;
 import dat.entities.Poem;
-
 import jakarta.persistence.EntityManagerFactory;
 
 import java.io.File;
@@ -25,7 +24,8 @@ public class PoemImporter {
 
     public static List<Poem> importPoemsFromJson(EntityManagerFactory emf) {
         try {
-            List<PoemDTO> poemDTOs = objectMapper.readValue(file, new TypeReference<List<PoemDTO>>() {});
+            List<PoemDTO> poemDTOs = objectMapper.readValue(file, new TypeReference<List<PoemDTO>>() {
+            });
 
             PoemDAO poemDAO = PoemDAO.getInstance(emf);
 
