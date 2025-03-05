@@ -7,8 +7,6 @@ import jakarta.persistence.EntityManagerFactory;
 
 import java.util.List;
 
-import static PoemDAO.emf;
-
 public class PoemDAO implements IDAO<Poem, Long>  {
 
 
